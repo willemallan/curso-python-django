@@ -1,5 +1,4 @@
 <h2>CURSO PYTHON/DJANGO</h2>
-===================
 
 <p>Informações do Curso</p>
 <p>Total em horas 24
