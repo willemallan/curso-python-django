@@ -1,7 +1,7 @@
 <h2>CURSO PYTHON/DJANGO</h2>
 
 <p><b>Informações do Curso</b></p>
-<p>Carga horária 24 horas</p>
+<p>Carga horária 32 horas</p>
 
 <h2><b>Introdução (2 hora)</b></h2>
 
@@ -45,15 +45,23 @@
 <ul>
     <li>criando projeto</li>
     <li>configurando projeto</li>
+    <li>template (base, blocks)</li>
 </ul>
 
-<p><b>Criando uma app (8 horas)</b></p>
+<p><b>Criando uma app (10 horas)</b></p>
 <ul>
-    <li>models</li>
+    <li>models (classes e defs)</li>
     <li>admin</li>
     <li>urls</li>
-    <li>views</li>
+    <li>views (generic views, defs)</li>
     <li>template</li>
+</ul>
+
+<p><b>Geral (6 horas)</b></p>
+<ul>
+    <li>filtros no template (site_tags)</li>
+    <li>customizando o admin</li>
+    <li>context processors</li>
 </ul>
 
 <p><b>Deploy servidor (4 horas)</b></p>
