@@ -1,8 +1,7 @@
 <h2>CURSO PYTHON/DJANGO</h2>
 
 <p><b>Informações do Curso</b></p>
-<p>Total em horas 24
-6 dias de 4 horas</p>
+<p>Carga horária 24 horas</p>
 
 <h2><b>Introdução (2 hora)</b></h2>
 
@@ -27,7 +26,7 @@
     <li>PEP8</li>
 </ul>
 
-<h2><b>Configurando o ambiente de desenvolvimento (2 horas)</b></h2>
+<h2><b>Configurando ambiente de desenvolvimento (2 horas)</b></h2>
 <ul>
     <li>linux ou mac</li>
     <li>python</li>
