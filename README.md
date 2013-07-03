@@ -26,7 +26,7 @@
     <li>PEP8</li>
 </ul>
 
-<h2><b>Configurando ambiente de desenvolvimento (2 horas)</b></h2>
+<h2><b>Configurando o ambiente (2 horas)</b></h2>
 <ul>
     <li>linux ou mac</li>
     <li>python</li>
